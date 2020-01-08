@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS todo_new_cli;
+CREATE DATABASE todo_new_cli;
